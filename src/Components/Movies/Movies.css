@@ -1,0 +1,14 @@
+.movies-container h1{
+    color: #72DB73;
+    font-family: 'Single Day', cursive;
+    margin: 10px 0 20px 150px;
+}
+
+.content-box{
+    font-family: 'Roboto', sans-serif;
+    width: 70%;
+    margin: auto;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
